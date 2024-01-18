@@ -1,0 +1,7 @@
+# Foo 
+
+This is a Quarto website.
+
+Here is a reference: @exm-one.
+
+Here is another reference: @exm-two.

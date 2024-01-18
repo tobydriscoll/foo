@@ -1,0 +1,9 @@
+# One {.unnumbered}
+
+This is an example.
+
+::::{#exm-one}
+Look at me!
+::::
+
+Here are references to @exm-one and @exm-two.

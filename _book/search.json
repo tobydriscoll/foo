@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Foobar",
+    "section": "",
+    "text": "1 Foo\nThis is a Quarto website.\nHere is a reference: Example 1.\nHere is another reference: Example 2.1.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Foo</span>"
+    ]
+  },
+  {
+    "objectID": "one.html",
+    "href": "one.html",
+    "title": "One",
+    "section": "",
+    "text": "This is an example.\n\nExample 1 Look at me!\n\nHere are references to Example exm-one and Example exm-two.",
+    "crumbs": [
+      "One"
+    ]
+  },
+  {
+    "objectID": "two.html",
+    "href": "two.html",
+    "title": "2  Two",
+    "section": "",
+    "text": "This is an example.\n\nExample 2.1 Unbelievable!\n\nHere are references to Example 1 and Example 2.1.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Two</span>"
+    ]
+  }
+]
